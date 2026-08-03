@@ -81,3 +81,5 @@ Add this line:
 Save the file, close PowerShell, reopen it, then run:
 
         quick-git "Your commit message here"
+## Future Plans
+- Integrate AI in order to auto generate commit messages
